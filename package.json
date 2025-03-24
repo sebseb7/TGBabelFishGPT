@@ -1,0 +1,16 @@
+{
+  "name": "tgbabelfishgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babelfish.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.89.0"
+  }
+}
